@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<body>
+<h1>About Me</h>
+<p>Hi, I'm a student and this is a basic website.</p>
+<h2>What I like to do<h2>
+<p>I like to play chess, and I like the Acura NSX car.<p>
+<img src="https://media.istockphoto.com/id/1079981024/photo/acura-nsx-2017.jpg?s=2048x2048&w=is&k=20&c=Rdk10v5DS4oDSE2bvftOiWyMtrCRlvLiXw0PhY8uYOk=" alt="Acura NSX">
+<img src="https://media.istockphoto.com/id/1141057470/vector/vector-realistic-3d-chess-pieces-chessboard-set.jpg?s=2048x2048&w=is&k=20&c=XJl9aq--39cXekz3xsN4QPZqAZWSKRenjAdVwbwU2W4=" alt="Chess">
+</body>
