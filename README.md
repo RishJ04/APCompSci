@@ -1,2 +1,0 @@
-# APCompSci
-Done for class
